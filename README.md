@@ -1,4 +1,4 @@
-E-Commerce Customer Churn and Revenue Analysis Using SQL
+E- COMMERCE CUSTOMER CHURN AND REVENUE ANALYSIS USING MySQL
 
 E-Commerce Customer Churn Analysis:-
 This project analyzes customer churn in an e-commerce business using SQL. The analysis includes data cleaning, customer segmentation, churn rate calculation, purchase behavior analysis, and identification of key factors influencing customer retention. The project demonstrates the use of SQL for business intelligence and data-driven decision-making.
